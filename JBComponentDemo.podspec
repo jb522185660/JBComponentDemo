@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JBComponentDemo'
-  s.version          = '0.0.1'
+  s.version          = '0.2.0'
   s.summary          = 'Cocoapod的一个组件化测试项目'
 
 # This description is used to generate tags and improve search results.

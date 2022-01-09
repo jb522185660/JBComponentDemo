@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JBComponentDemo'
-  s.version          = '0.2.0'
+  s.version          = '0.2.1'
   s.summary          = 'Cocoapod的一个组件化测试项目'
 
 # This description is used to generate tags and improve search results.
@@ -29,8 +29,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'JBComponentDemo/Classes/*'
-#  s.source_files = 'JBComponentDemo/Classes/**/*'
+  s.source_files = 'JBComponentDemo/Classes/**/*'
   
   s.swift_version = '5.0'
   

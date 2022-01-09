@@ -1,5 +1,5 @@
 PODS:
-  - JBComponentDemo (0.1.0)
+  - JBComponentDemo (0.2.0)
 
 DEPENDENCIES:
   - JBComponentDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JBComponentDemo: 10abe4ae8b08aea827443584c522404fb9b78f29
+  JBComponentDemo: 7a9a1e137a26b310a2158ebc5dcecafb9a2fe8eb
 
 PODFILE CHECKSUM: a0701d1b037002f43eb67e36cffd494b932f93c5
 

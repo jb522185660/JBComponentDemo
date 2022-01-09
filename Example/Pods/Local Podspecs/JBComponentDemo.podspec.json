@@ -1,0 +1,22 @@
+{
+  "name": "JBComponentDemo",
+  "version": "0.1.0",
+  "summary": "A short description of JBComponentDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JackLi/JBComponentDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JackLi": "522185660@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/JackLi/JBComponentDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JBComponentDemo/Classes/**/*"
+}

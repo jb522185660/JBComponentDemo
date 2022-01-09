@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JBComponentDemo'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of JBComponentDemo.'
+  s.version          = '0.0.1'
+  s.summary          = 'Cocoapod的一个组件化测试项目'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,16 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/JackLi/JBComponentDemo'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/jb522185660/JBComponentDemo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'JackLi' => '522185660@qq.com' }
-  s.source           = { :git => 'https://github.com/JackLi/JBComponentDemo.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { '超级屌丝' => '522185660@qq.com' }
+  s.source           = { :git => 'https://github.com/jb522185660/JBComponentDemo.git', :tag => s.version.to_s }
+  
 
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'JBComponentDemo/Classes/**/*'
+  
+  s.swift_version = '5.0'
   
   # s.resource_bundles = {
   #   'JBComponentDemo' => ['JBComponentDemo/Assets/*.png']

@@ -1,0 +1,6 @@
+framework module JBComponentDemo {
+  umbrella header "JBComponentDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

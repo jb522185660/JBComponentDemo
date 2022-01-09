@@ -1,0 +1,16 @@
+PODS:
+  - JBComponentDemo (0.1.0)
+
+DEPENDENCIES:
+  - JBComponentDemo (from `../`)
+
+EXTERNAL SOURCES:
+  JBComponentDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JBComponentDemo: 10abe4ae8b08aea827443584c522404fb9b78f29
+
+PODFILE CHECKSUM: a0701d1b037002f43eb67e36cffd494b932f93c5
+
+COCOAPODS: 1.11.2
